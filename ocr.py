@@ -16,7 +16,6 @@ from typing import Union, Tuple
 
 os.environ['w2n.lang'] = 'es'
 
-# tess.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
 
 class OCRRun:
